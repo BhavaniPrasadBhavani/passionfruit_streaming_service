@@ -43,11 +43,7 @@ This project implements a video streaming service using React for the frontend a
 ## Setup Instructions
 
 ### Frontend Setup
-
-1. Clone this repository:
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-Copy
+1.Install node js in a code editor.
 2. Install dependencies:
 
 npm install
