@@ -21,8 +21,8 @@ This project implements a video streaming service using React for the frontend a
 
 ### Frontend Setup
 
-1. Clone this repository:
-2. Certainly. I'll create a structured README.md file for your GitHub repository based on the information you've provided. This README will guide users through setting up and implementing your video streaming service project.
+
+1. Certainly. I'll create a structured README.md file for your GitHub repository based on the information you've provided. This README will guide users through setting up and implementing your video streaming service project.
 markdownCopy# AWS-powered Video Streaming Service
 
 This project implements a video streaming service using React for the frontend and AWS services (CloudFront and S3) for content delivery.
