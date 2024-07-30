@@ -3,26 +3,12 @@
 
 This project implements a video streaming service using React for the frontend and AWS services (CloudFront and S3) for content delivery.
 
-## Project Flow
-
-1. User requests video service through the React frontend.
-2. The request triggers CloudFront.
-3. CloudFront fetches the video from the connected S3 bucket.
-4. The S3 bucket returns the video to CloudFront.
-5. CloudFront delivers the video to the user's browser.
-
-## Prerequisites
-
-- Node.js installed on your local machine
-- An AWS account
-- Basic knowledge of React and AWS services
 
 ## Setup Instructions
 
 ### Frontend Setup
 
-1. Certainly. I'll create a structured README.md file for your GitHub repository based on the information you've provided. This README will guide users through setting up and implementing your video streaming service project.
-markdownCopy# AWS-powered Video Streaming Service
+# AWS-powered Video Streaming Service
 
 This project implements a video streaming service using React for the frontend and AWS services (CloudFront and S3) for content delivery.
 
@@ -79,10 +65,6 @@ npm start
 1. In your React app, use the CloudFront URL to fetch video content.
 2. Implement video playback using a suitable React video player component.
 
-## Deployment
-
-- Deploy your React app to a hosting service of your choice (e.g., AWS Amplify, Netlify, Vercel)
-- Ensure your deployed app has the correct CloudFront URL configured
 
 ## Security Considerations
 
