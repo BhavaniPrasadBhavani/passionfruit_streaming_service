@@ -1,12 +1,4 @@
  This README will guide users through setting up and implementing your video streaming service project.
- # AWS-powered Video Streaming Service
-
-This project implements a video streaming service using React for the frontend and AWS services (CloudFront and S3) for content delivery.
-
-
-## Setup Instructions
-
-### Frontend Setup
 
 # AWS-powered Video Streaming Service
 
